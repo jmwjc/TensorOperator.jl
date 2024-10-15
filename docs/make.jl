@@ -4,7 +4,7 @@ using TensorOperator
 makedocs(
     sitename = "TensorOperator",
     format = Documenter.HTML(
-        prettyurls = get(ENV, "CI", nothing) == "true"
+        # prettyurls = get(ENV, "CI", nothing) == "true"
     ),
     modules = [TensorOperator],
     pages = [
