@@ -17,7 +17,5 @@ makedocs(
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
 deploydocs(
-    repo = "github.com/jmwjc/TensorOperator.jl.git",  # 仓库路径
-    target = "gh-pages",                                # 发布到gh-pages分支
-    branch = "main" 
+    repo = "github.com/jmwjc/TensorOperator.jl.git",  
 )
