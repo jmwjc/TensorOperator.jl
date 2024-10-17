@@ -1,7 +1,7 @@
 name = "TensorOperator"
 uuid = "e9fcb3ac-1e93-4356-b836-ee815348c213"
 authors = ["WuJC <jmwjc@163.com> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
 
 [deps]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
